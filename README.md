@@ -14,7 +14,7 @@ The project follows a **user-centered design methodology**, starting from proble
 
 The goal is to create a **structured and engaging ecosystem for sports knowledge, updates, and career guidance**.
 
-According to the project research, sports literacy in India is estimated to be around **5.56%**, highlighting the need for platforms that promote awareness and participation. :contentReference[oaicite:0]{index=0}
+According to the project research, sports literacy in India is estimated to be around **5.56%**, highlighting the need for platforms that promote awareness and participation.
 
 ---
 
@@ -83,7 +83,7 @@ Sportspedia is designed for a wide range of users:
 - **General Public** – Anyone interested in learning about sports  
 - **Corporate Sponsors** – Organizations interested in sports trends and growth  
 
-These stakeholders were identified through interviews, surveys, and user research conducted during the project. :contentReference[oaicite:1]{index=1}
+These stakeholders were identified through interviews, surveys, and user research conducted during the project.
 
 ---
 
